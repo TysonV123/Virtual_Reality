@@ -1,0 +1,43 @@
+body{
+     background-color:darkblue;
+}
+
+h1{
+    color:lightblue;
+    text-align:center;
+    font-size:300%;
+}
+
+h2{
+    color:orangered;
+    text-align:center;
+    font-size:200%;
+    padding:10px
+}
+
+h3{
+     color:cadetblue;text-align:center;font-size:150%
+}
+
+h4{
+    color:red;text-align:center;font-size:150%
+}
+
+p.redpara{
+     color:red;
+}
+
+p.palepara{
+     color:palevioletred;
+}
+
+p.crimsonpara{
+     color:crimson;
+}
+
+img.small{
+     width:150px;height:140px;
+}
+img.space{
+    padding:10px;
+}
