@@ -24,7 +24,7 @@ h4{
 }
 
 p.redpara{
-     color:red;
+     color:red;text-align:center;font-size:105%
 }
 
 p.palepara{
@@ -36,6 +36,10 @@ p.crimsonpara{
 }
 
 img.small{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
      width:150px;height:140px;
 }
 img.space{
