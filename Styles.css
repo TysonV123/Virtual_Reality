@@ -53,3 +53,11 @@ img.games{
     width: 50%;
     width:300px
 }
+
+img.start{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+    width:500px
+}
